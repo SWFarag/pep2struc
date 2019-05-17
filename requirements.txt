@@ -1,0 +1,6 @@
+itertools
+pandas
+sklearn
+keras
+matplotlib
+rdkit
